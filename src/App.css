@@ -1,0 +1,22 @@
+.container{
+  
+
+  
+ 
+}
+
+.content{
+  background-color: white;
+  padding: 20px 20px;
+  border-radius: 10px;
+  width: 500px;
+}
+
+figure{
+  display: flex;
+  justify-content: center;
+}
+img{
+  margin:auto;
+  width: 100px;
+}
